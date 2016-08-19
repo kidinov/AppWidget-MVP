@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ecosia</string>
+
+    <!--Random player widget-->
+    <string name="cant_play_music">Can\'t play music file</string>
+    <string name="file_playing">%s file playing</string>
+    <string name="no_music_files_found">No music files were found</string>
+</resources>
