@@ -19,9 +19,7 @@ public class DataManager {
         this.context = context;
     }
 
-    public
-    @NonNull
-    List<MusicFileMetaData> getMp3Files() {
+    public @NonNull List<MusicFileMetaData> getMp3Files() {
         List<MusicFileMetaData> result = new ArrayList<>();
 
         ContentResolver cr = context.getContentResolver();
